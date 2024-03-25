@@ -1,6 +1,6 @@
 import Notiflix from "notiflix";
 
-const KEY = "27771595-431aa52f6f585107eea577c49"
+const KEY = "43060959-1585d2142f5ba851b24d9fbbc"
 const PIXABAY_URL = "https://pixabay.com/api/"
 export default class PixabayService { 
     constructor() {
